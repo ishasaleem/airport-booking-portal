@@ -1,4 +1,5 @@
-# ✈️ Airport Booking Portal (Frontend Only)
+# ✈️ Airport Booking Portal (deployed)
+https://airport-booking-portal.vercel.app/
 
 ## 📌 Overview
 The **Airport Booking Portal** is a fully functional frontend application built using **React.js**. It simulates a real-world airport booking system with role-based access for **Passengers, Employees, and Admins**.
