@@ -1,7 +1,7 @@
 # ✈️ Airport Booking Portal (deployed)
 https://airport-booking-portal.vercel.app/
 
-## 📄 Documentation
+## 📄 Documentation with Screenshots
 
 📌 A detailed project documentation is included in this repository:
 
